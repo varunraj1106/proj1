@@ -1,3 +1,4 @@
+python-3.9.10
 asgiref==3.4.1
 dj-database-url==0.5.0
 dj-static==0.0.6
